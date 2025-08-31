@@ -27,4 +27,4 @@ git clone https://github.com/seu-usuario/criador-e-gerador-de-qr-codes.git
 cd criador-e-gerador-de-qr-codes
 npm install
 
-para iniciar digire no terminal: npm run start
+para iniciar digite no terminal: npm run start
